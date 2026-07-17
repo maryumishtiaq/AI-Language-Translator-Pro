@@ -1,0 +1,5 @@
+streamlit
+deep-translator
+gTTS
+fpdf2
+pyperclip
