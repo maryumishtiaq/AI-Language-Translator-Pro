@@ -75,6 +75,6 @@ AI-Language-Translator-Pro
 
 Maryum Ishtiaq
 
-CodeAlpha AI Internship Project
+
 
 2026
